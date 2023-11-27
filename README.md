@@ -68,3 +68,5 @@ scikit-learn: 1.2.2 </br>
 
 #Tags </br>
 covid19, classification, machine learning, health, pneumonia
+
+Kaggle: https://www.kaggle.com/code/feryramadhanc/covid-19-penumonia-classication
